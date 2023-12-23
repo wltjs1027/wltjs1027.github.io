@@ -1,11 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Introduce"
+     url: /about/
+  - title: "data visualization"
+     url: /visualization/
+  - title: "data analysis"
+     url: /analysis/
+  - title: "cyber security"
+     url: /security/
+  - title: "backend development"
+     url: /backend/
+
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
